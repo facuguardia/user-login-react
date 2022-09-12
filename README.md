@@ -1,6 +1,6 @@
 # User Login React
 
-El formulario de inicio de sesión cuneta con la posibilidad de registrase conectándose con su cuenta de Google o también la posibilidad de registrarse con email y contraseña. También tendrás la posibilidad de formatear la contraseña en caso de olvido.
+El formulario de inicio de sesión cuenta con la posibilidad de registrase conectándose con su cuenta de Google o también la posibilidad de registrarse con email y contraseña. También tendrás la posibilidad de formatear la contraseña en caso de olvido.
 
 ## Screenshot
 
